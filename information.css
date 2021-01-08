@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+
+.info_container p{
+    padding :10px 100px;
+    background-color:whitesmoke;
+}
+.info_container{
+    margin: auto;
+    display: flex;
+    justify-content:center;
+    width: 80%;
+    padding: 20px;
+}
+
+.info_header{
+    padding: 10px;
+    background-color:white;
+}
+
+h2{
+    font-size: 30px;
+}
+
+
+.logo{
+    align-items: center;
+    display: flex;
+    justify-content:center;
+    padding: 10px 0px 60px 0px;
+}
+
+#wie_logo{
+    width: 25%;
+    margin-left: 500px;
+}
+
+#grss_logo{
+    width: 25%;
+    margin-left: 600px;
+}
