@@ -1,0 +1,22 @@
+.image img{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.talks{
+    margin: auto;
+    text-align: center;
+}
+
+.talks h2{
+    font-size:30px;
+}
+
+section{
+    padding: 30px;
+    width: 80%;
+    margin: auto;
+}
