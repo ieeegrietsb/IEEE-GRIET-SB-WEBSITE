@@ -1,0 +1,14 @@
+.laurels_container img{
+    margin: auto;
+    padding: auto;
+}
+
+.first_image img{
+    margin-left: 250px;
+}
+.second_image img{
+    margin-left: 450px;
+}
+.third_image img{
+    margin-left: 400px;
+}
