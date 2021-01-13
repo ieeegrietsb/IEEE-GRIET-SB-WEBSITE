@@ -1,22 +1,32 @@
-.image img{
-    width: 40%;
-    display: flex;
-    justify-content: center;
-    margin: auto;
-    padding: 10px;
+.image1{
+    margin:auto;
+    margin-left: 350px;
 }
-
-.talks{
-    margin: auto;
-    text-align: center;
+.image2{
+    margin:auto;
+    margin-left: 400px;
 }
-
-.talks h2{
-    font-size:30px;
+.image3{
+    margin:auto;
+    margin-left: 350px;
 }
-
-section{
-    padding: 30px;
-    width: 80%;
-    margin: auto;
+.image4{
+    margin:auto;
+    margin-left: 375px;
+}
+.image5{
+    margin:auto;
+    margin-left: 350px;
+}
+.image6{
+    margin:auto;
+    margin-left: 350px;
+}
+.image7{
+    margin:auto;
+    margin-left: 375px;
+}
+.image8     {
+    margin:auto;
+    margin-left: 350px;
 }
