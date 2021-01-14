@@ -1,0 +1,17 @@
+.talks h2{
+    padding: 20px;
+    text-align: center;
+    font-size: 60px;
+}
+
+.talks p{
+    text-align: center;
+    padding: 10px;
+}
+
+.image img{
+    width: 40%;
+    display: flex;
+    margin-left:475px;
+    padding: 20px;
+}

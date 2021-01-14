@@ -1,11 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+}
 header{
     margin: auto;
 }
 .logos{
     height: 110px;
     margin: auto;
-    width: 85%;
+    width: 90%;
     display: flex;
+    overflow: hidden;
+    padding: 10px;
+    margin-top:10px;
 }
 #sb_logo{
     flex: 2;
@@ -14,26 +22,25 @@ header{
 /* Navigation */   
 nav{  
     background-color: #00629B;
-    margin: auto;
 } 
 .menu_links{
-    
     height: 40px;
     margin: auto;
     width: 55%;
     display: flex;
+
 }
 .menu_links li {
     margin: auto;
-    padding: 9px 32px ;
-    border-right: 2px solid rgba(80, 79, 79, 0.61) ;
+    padding:7px 0px 7px 0px;
 }
+
 .menu_links li:hover{
-    border-right: 2px solid #47ade7 ;
     background-color: #47ade7;
     transition: all 0.6s ease-out 0s;
 }
 .menu_links li a{
+    /*background-color:green;*/
     color: white;
     text-align: center;
     box-sizing: border-box;
